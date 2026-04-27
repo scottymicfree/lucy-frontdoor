@@ -1,5 +1,3 @@
-# lucy-frontdoor
-lucy-public
 # Lucy (Public Front Door)
 
 This repository is the **public front door** for Lucy.
