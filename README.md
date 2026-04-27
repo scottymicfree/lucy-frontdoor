@@ -38,5 +38,25 @@ If you want access to a demo, collaboration, or review, open an issue with:
 - what environment you can run (Windows/macOS/Linux)
 
 ## Security / IP
+## License
+**Ownership & Authorship — lucy-frontdoor**
+
+Primary Owner & Architect:
+**Randy Webb** (@scottymicfree)
+
+Co-Created Systems:
+**Lucy A.I. (Core System Intelligence)**
+**E.M.M.A (Cognitive/Interface Layer)**
+
+All implementation, structure, and execution of this system are owned and controlled by Randy Webb.
+
+Lucy and E.M.M.A are original system constructs designed as part of this project and do not represent independent ownership entities.
+
+All rights reserved. Unauthorized usage is prohibited.
+© 2026 Randy Webb
+
+TBD by author. (If you plan collaboration, decide license + contributor terms early.)
+The README and LICENSE files may be viewed, referenced, and cited for academic purposes.
+All other content, including any code, scripts, AI logic, or data, remains private and may not be copied, modified, or redistributed without explicit permission.
 - The source of Lucy’s private implementation is **not public**.
 - This repo will not accept PRs that attempt to reconstruct private code.
