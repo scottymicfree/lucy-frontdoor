@@ -1,4 +1,8 @@
 # Lucy (Public Front Door)
+
+> 🌐 **Fenton Lab official website:** [fentonlabai.pages.dev](https://fentonlabai.pages.dev/)  
+> Planned primary domain: `fentonlabai.com` (custom-domain connection pending).
+
 Articles
 Article 1 — Human Sovereignty
 Humans retain final authority over identity, rights, bodily autonomy, personal legal decisions, and all matters of conscience.
